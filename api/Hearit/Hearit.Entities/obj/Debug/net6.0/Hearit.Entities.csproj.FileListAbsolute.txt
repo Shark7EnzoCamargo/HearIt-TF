@@ -1,0 +1,12 @@
+C:\Users\ezzon\OneDrive\Escritorio\Hearit\api\Hearit\Hearit.Entities\bin\Debug\net6.0\Hearit.Entities.deps.json
+C:\Users\ezzon\OneDrive\Escritorio\Hearit\api\Hearit\Hearit.Entities\bin\Debug\net6.0\Hearit.Entities.dll
+C:\Users\ezzon\OneDrive\Escritorio\Hearit\api\Hearit\Hearit.Entities\bin\Debug\net6.0\Hearit.Entities.pdb
+C:\Users\ezzon\OneDrive\Escritorio\Hearit\api\Hearit\Hearit.Entities\obj\Debug\net6.0\Hearit.Entities.csproj.AssemblyReference.cache
+C:\Users\ezzon\OneDrive\Escritorio\Hearit\api\Hearit\Hearit.Entities\obj\Debug\net6.0\Hearit.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezzon\OneDrive\Escritorio\Hearit\api\Hearit\Hearit.Entities\obj\Debug\net6.0\Hearit.Entities.AssemblyInfoInputs.cache
+C:\Users\ezzon\OneDrive\Escritorio\Hearit\api\Hearit\Hearit.Entities\obj\Debug\net6.0\Hearit.Entities.AssemblyInfo.cs
+C:\Users\ezzon\OneDrive\Escritorio\Hearit\api\Hearit\Hearit.Entities\obj\Debug\net6.0\Hearit.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ezzon\OneDrive\Escritorio\Hearit\api\Hearit\Hearit.Entities\obj\Debug\net6.0\Hearit.Entities.dll
+C:\Users\ezzon\OneDrive\Escritorio\Hearit\api\Hearit\Hearit.Entities\obj\Debug\net6.0\refint\Hearit.Entities.dll
+C:\Users\ezzon\OneDrive\Escritorio\Hearit\api\Hearit\Hearit.Entities\obj\Debug\net6.0\Hearit.Entities.pdb
+C:\Users\ezzon\OneDrive\Escritorio\Hearit\api\Hearit\Hearit.Entities\obj\Debug\net6.0\ref\Hearit.Entities.dll

@@ -1,0 +1,17 @@
+C:\Users\ezzon\OneDrive\Escritorio\Hearit\api\Hearit\Hearit.DataAccess\bin\Debug\net6.0\Hearit.DataAccess.deps.json
+C:\Users\ezzon\OneDrive\Escritorio\Hearit\api\Hearit\Hearit.DataAccess\bin\Debug\net6.0\Hearit.DataAccess.runtimeconfig.json
+C:\Users\ezzon\OneDrive\Escritorio\Hearit\api\Hearit\Hearit.DataAccess\bin\Debug\net6.0\Hearit.DataAccess.dll
+C:\Users\ezzon\OneDrive\Escritorio\Hearit\api\Hearit\Hearit.DataAccess\bin\Debug\net6.0\Hearit.DataAccess.pdb
+C:\Users\ezzon\OneDrive\Escritorio\Hearit\api\Hearit\Hearit.DataAccess\bin\Debug\net6.0\Hearit.Entities.dll
+C:\Users\ezzon\OneDrive\Escritorio\Hearit\api\Hearit\Hearit.DataAccess\bin\Debug\net6.0\Hearit.Entities.pdb
+C:\Users\ezzon\OneDrive\Escritorio\Hearit\api\Hearit\Hearit.DataAccess\obj\Debug\net6.0\Hearit.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ezzon\OneDrive\Escritorio\Hearit\api\Hearit\Hearit.DataAccess\obj\Debug\net6.0\Hearit.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezzon\OneDrive\Escritorio\Hearit\api\Hearit\Hearit.DataAccess\obj\Debug\net6.0\Hearit.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ezzon\OneDrive\Escritorio\Hearit\api\Hearit\Hearit.DataAccess\obj\Debug\net6.0\Hearit.DataAccess.AssemblyInfo.cs
+C:\Users\ezzon\OneDrive\Escritorio\Hearit\api\Hearit\Hearit.DataAccess\obj\Debug\net6.0\Hearit.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ezzon\OneDrive\Escritorio\Hearit\api\Hearit\Hearit.DataAccess\obj\Debug\net6.0\Hearit.DataAccess.csproj.CopyComplete
+C:\Users\ezzon\OneDrive\Escritorio\Hearit\api\Hearit\Hearit.DataAccess\obj\Debug\net6.0\Hearit.DataAccess.dll
+C:\Users\ezzon\OneDrive\Escritorio\Hearit\api\Hearit\Hearit.DataAccess\obj\Debug\net6.0\refint\Hearit.DataAccess.dll
+C:\Users\ezzon\OneDrive\Escritorio\Hearit\api\Hearit\Hearit.DataAccess\obj\Debug\net6.0\Hearit.DataAccess.pdb
+C:\Users\ezzon\OneDrive\Escritorio\Hearit\api\Hearit\Hearit.DataAccess\obj\Debug\net6.0\Hearit.DataAccess.genruntimeconfig.cache
+C:\Users\ezzon\OneDrive\Escritorio\Hearit\api\Hearit\Hearit.DataAccess\obj\Debug\net6.0\ref\Hearit.DataAccess.dll
